@@ -73,7 +73,7 @@ Submit your results by **1st June 2026 (anywhere on Earth)**
 
 Fernando Lezama, José Almeida, João Soares, Bruno Canizes, Filipe Sousa, Zita Vale
  
-If you have any questions kindly send mail to José Almeida (jorga@isep.ipp.pt)
+If you have any questions kindly send mail to Fernando Lezama (flz@isep.ipp.pt)
 
 
 ![Screenshot_1](https://github.com/user-attachments/assets/9da62d14-a843-4051-a84e-58945399d2f0)
