@@ -42,4 +42,42 @@ We have been implementing variants of the benchmark problems, but have always us
 In addition, 20 independent trials should be performed in the framework by each participant.
 
 ## How to submit an entry
+- The winner will be the participant with the minimum ranking index in the proposed track, which is calculated as the sum of the normalized values of the average fitness value and the average number of function evaluations for the 20 trials. Possible outliers in the normalization will be handled by the winsorizing of the results.
+- Each participant is kindly requested to put the text files corresponding to final results (see guideline document), as well as the implementation files (codes), obtained by using a specific optimizer, into a zipped folder named:
+GECCO_WCCI_2026_AlgorithmName_ParticipantName.zip (e.g.)
+GECCO_WCCI_2026_DE_JoseAlmeida.zip).
 
+**The participants should submit the files to the registration form ([link]()) by 1st June 2026 (anywhere on Earth).**
+
+## Important Remarks
+
+- Notice that submission of papers or assistance to CEC and GECCO by competition participants is not mandatory.
+- You can submit a paper to the WCCI-2026 Special Session on User-Centric Algorithms and Fair Applications using AI and Evolutionary Computation ([Submit it here](https://attend.ieee.org/wcci-2026/submissions/)) – select Special Session: User-Centric Algorithms and Fair Applications using AI and Evolutionary Computation.
+- You are also welcome to submit short descriptions of your algorithms and results as 2-page papers to be included in the GECCO Companion. **This is voluntary:** the submission deadline is **TBD**. [Submit it here](https://gecco-2026.sigevo.org/Call+for+Papers) (**Competition Entry Submissions**)
+
+**IEEE CES PRIZE:** (TBD)
+
+Submit your results by **1st June 2026 (anywhere on Earth)**
+
+## Further related bibliography
+
+- [1] F., Lezama, J. Soares, Z. Vale, J. Rueda, S. Rivera, & I. Elrich, 2017 IEEE Competition on modern heuristic optimizers for smart grid operation: Testbeds and results. Swarm and evolutionary computation, 44, 420-427, 2019.
+- [2] F. Lezama, J. Soares, P. Hernandez-Leal, M. Kaisers, T. Pinto, and Z. Vale, Local Energy Markets: Paving the Path Towards Fully Transactive Energy Systems, IEEE Transaction on Power Systems, IEEE (2018).
+- [4] F. Lezama, J. Soares, E. Munoz de Cote, L. E. Sucar, and Z. Vale, “Differential Evolution Strategies for Large-Scale Energy Resource Management in Smart Grids,” in GECCO ’17: Genetic and Evolutionary Computation Conference Companion Proceedings, 2017. 
+- [5] J. Almeida, J. Soares, F. Lezama, S. Limmer, T. Rodemann, and Z. Vale, “A systematic review of explainability in computational intelligence for optimization,” Computer Science Review, vol. 57, p. 100764, Aug. 2025.
+- [6] J. Soares et al., “Review on fairness in local energy systems,” Applied Energy, vol. 374, p. 123933, Nov. 2024.
+- [7] F. Lezama, F. Doria, and J. Soares, “Fair Pricing Optimization in Energy Communities with Differential Evolution,” in Proceedings of the International Workshop on AI Systems for the Environment (AISE-2025), 2025, pp. 61–70.
+- [8] J. Almeida, J. Soares, E. Aliyan, S. Limmer, R. Faia, and S. Ramos, “Fairness Index Analysis in Local Energy Communities Considering Electric Vehicles and Energy Storage,” in Proceedings of the VII Ibero-American Congress of Smart Cities, ICSC-Cities 2024, 12–14 November, San Carlos, Costa Rica, D. Rossit, P. Moreno-Bernal, and C. E. Torres-Aguilar, Eds., Singapore: Springer Nature Singapore, 2025, pp. 175–189.
+
+## Organizers
+
+Fernando Lezama, José Almeida, João Soares, Bruno Canizes, Filipe Sousa, Zita Vale
+ 
+If you have any questions kindly send mail to José Almeida (jorga@isep.ipp.pt)
+
+
+![Screenshot_1](https://github.com/user-attachments/assets/9da62d14-a843-4051-a84e-58945399d2f0)
+
+- [Activity of IEEE CIS Task Force 3 on Computational Intelligence in the Energy Domain](https://www.gecad.isep.ipp.pt/ci4energy/)
+- [Intelligent Systems Subcommittee (ISS), part of IEEE PES TC Analytic Methods for Power Systems (AMPS)](https://site.ieee.org/pes-iss/)
+- With the support of [IEEE CIS](https://cis.ieee.org/) (TBD prize) and [IEEE PES (WG on MHO)](https://site.ieee.org/psace-mho/)
