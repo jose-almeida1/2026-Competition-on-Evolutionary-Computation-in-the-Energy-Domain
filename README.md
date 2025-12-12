@@ -71,7 +71,7 @@ Submit your results by **1st June 2026 (anywhere on Earth)**
 
 ## Organizers
 
-Fernando Lezama, José Almeida, João Soares, Bruno Canizes, Filipe Sousa, Zita Vale
+Fernando Lezama, José Almeida, João Soares, Filipe Sousa, Zita Vale
  
 If you have any questions kindly send mail to Fernando Lezama (flz@isep.ipp.pt)
 
