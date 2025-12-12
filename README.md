@@ -16,7 +16,7 @@ Organized by Polytechnic of Porto (ISEP)
 
 **The registration of participants is mandatory** and must be made online using the following form: [link]().
 
-Note: If you are unable to complete this form, please send it by email to: flz@isep.ipp.pt; jorga@isep; jan@isep.ipp.pt; bmc@isep.ipp.pt; ffeso@isep.ipp.pt; zav@isep.ipp.pt
+Note: If you are unable to complete this form, please send it by email to: flz@isep.ipp.pt; jorga@isep.ipp.pt; jan@isep.ipp.pt; bmc@isep.ipp.pt; ffeso@isep.ipp.pt; zav@isep.ipp.pt
 
 ## Final Rank Results
 
